@@ -2,3 +2,5 @@
 GiyHubの勉強用リポジトリ
 
 はじめてのGitHub
+
+test2
